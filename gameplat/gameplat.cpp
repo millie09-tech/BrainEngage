@@ -68,7 +68,7 @@ void invite_guest(){
 --data-urlencode 'Body="+message +"' \
 --data-urlencode 'From=+13614056153' \
 --data-urlencode 'To=" + phone +"' \
--u AC7840a441ed9f6a66a27a6f3d32a6abcd:f60c80f4a63f13a382a2f3c2bf04ad15"; 
+-u KEY"; 
     url  = "curl " + url;
   system(url.c_str());
     system("clear");//Clearing previous logs so that the result can be seen neatly
