@@ -7,5 +7,6 @@ In a presentation by Sophia Corson, she referenced a paper that proved the relat
 FEATURES TO SUPPORT CHILDREN WITH SPECIAL NEEDS: 
 We formatted the program such that it was easy for the special needs kids to navigate through. For example using fonts like Courier Prime. We also have a help/positive affirmations page on the study website whenever the user feels stuck. And as for the reward, we decided to add videogames at the end in order to encourage the user to finish studying.
 
-
+HERE IS A DEMO: 
+https://drive.google.com/file/d/1AFbDNXh20HmGxwBNnkxDA2zm6tyvLyfr/view?usp=sharing
 
